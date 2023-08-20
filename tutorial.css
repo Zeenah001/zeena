@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    text-align: centers;
+}
+
+form{
+    background-color: wheat;
+    width: 55%;
+    height: 50%;
+    border: 2px solid white;
+    margin-left: 15%;
+    text-align: center;
+} 
+
+input{
+   
+    margin-bottom: 20px;
+    padding: 4px;
+    margin-top: 5%;
+    margin-left: 15%;
+    touch-action: cross-slide-x;
+}
